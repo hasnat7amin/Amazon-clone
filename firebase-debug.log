@@ -1,0 +1,13 @@
+[debug] [2021-03-31T12:35:09.689Z] ----------------------------------------------------------------------
+[debug] [2021-03-31T12:35:09.693Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Hasnat Amin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2021-03-31T12:35:09.694Z] CLI Version:   9.8.0
+[debug] [2021-03-31T12:35:09.694Z] Platform:      win32
+[debug] [2021-03-31T12:35:09.695Z] Node Version:  v14.15.1
+[debug] [2021-03-31T12:35:09.697Z] Time:          Wed Mar 31 2021 17:35:09 GMT+0500 (Pakistan Standard Time)
+[debug] [2021-03-31T12:35:09.697Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-03-31T12:35:09.714Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-31T12:35:09.716Z] > authorizing via signed-in user
+[debug] [2021-03-31T12:35:09.716Z] [iam] checking project clone-84004 for permissions ["firebase.projects.get"]
+[debug] [2021-03-31T12:35:09.721Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/clone-84004:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
