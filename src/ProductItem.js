@@ -24,7 +24,7 @@ function ProductItem({name, image, price,id}) {
                 })
             }
         })
-        .catch((error)=>{console.log("Got an error : "+ error)})
+        .catch((error)=>{console.log("Got an error : "+ error.message)})
     }
     return (
         <Container>
